@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Vikram Thorat 👋
 
-<!--
-**vikram-thorat/vikram-thorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI-Driven Full Stack Developer
+🌾 Specialized in Agri-Tech & Sugar Industry Systems
 
-Here are some ideas to get you started:
+💡 What I Build
+AI-powered assistants for farmers & industry
+ERP systems for cooperative sugar factories
+Mobile & web applications (Flutter + Django)
+Marathi NLP-based intelligent systems
+🧠 Tech Stack
+Python (Django)
+Flutter
+Oracle / SQL
+HuggingFace (NLP)
+AI Tools (ChatGPT, Claude, Gemini)
+🔥 Featured Project
+🤖 AI Agent for Sugar Factory Ecosystem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An AI-powered assistant helping farmers, employees, and transporters access real-time data using Marathi queries.
+
+👉 Key Highlights:
+
+Marathi AI intent detection
+Farmer & employee dashboards
+Oracle DB integration
+Real-world deployment ready
+🎯 Vision
+
+Building impactful AI solutions for agriculture, education, and rural ecosystems.
+
+📫 Connect
+LinkedIn (Coming Soon)
+Email (optional)
