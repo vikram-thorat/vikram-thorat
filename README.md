@@ -27,7 +27,7 @@
 ## 🔥 Featured Projects
 
 ### 🤖 AI Agent for Sugar Factory Ecosystem
-
+🔗 https://github.com/vikram-thorat/ai-agent-sugar-factory
 👉 AI assistant for farmers, employees & transporters
 
 * Marathi NLP queries
@@ -37,7 +37,7 @@
 ---
 
 ### 🧪 Sugar Lab Management System
-
+🔗 https://github.com/vikram-thorat/sugar-lab-management-system
 👉 Laboratory system for sugar factory operations
 
 * Daily entry & reports (RT7C, RT8C)
